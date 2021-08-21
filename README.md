@@ -1,2 +1,2 @@
 # SistemaMatriculacion
-Sistema de Matriculacion para Unidad Educativa
+Sistema de Matriculacion para Unidades Educativa
